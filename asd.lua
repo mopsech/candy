@@ -7502,11 +7502,11 @@ do
         local v50 = "Hey " .. t13.lp.Name .. "!"
 
         t1[43] = function()
-            setclipboard("CandyZone.filho.wtf")
+            setclipboard("Сходи нахуй")
         end
 
         local t57 = {
-			Title = "Copy Site",
+			Title = "Пойти нахуй",
 			Variant = "Primary",
 			Order = 1,
 			Callback = t1[43]
