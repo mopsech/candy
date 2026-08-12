@@ -7514,7 +7514,7 @@ do
 
         t1[37] = t1[36].AddDialog
         t1[45] = function()
-            setclipboard("https://discord.gg/WqfkmTKKWh")
+            setclipboard("https://discord.gg/3KjWyZ6uBu")
         end
         t1[37](t1[36], "PayVisitDialog", {
 			Title = v50,
