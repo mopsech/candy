@@ -8843,15 +8843,15 @@ do
     t1[36][t1[38]] = v162
     t13.ggt.fling:AddButton("Fling Selected", flingSelected)
     t13.ggt.fling:AddToggle("FlingMurdererButton", {
-		Text = "Draggable Fling Murd Btn",
+		Text = "Fling Murd Btn",
 		Default = false
 	})
     t13.ggt.fling:AddToggle("FlingSheriffButton", {
-		Text = "Draggable Fling Sher Btn",
+		Text = "Fling Sher Btn",
 		Default = false
 	})
     t13.ggt.fling:AddToggle("FlingEveryoneButton", {
-		Text = "Draggable Fling All Btn",
+		Text = "Fling All Btn",
 		Default = false
 	})
     t1[36] = t13
