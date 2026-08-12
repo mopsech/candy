@@ -7466,7 +7466,7 @@ do
         t1[36] = function()
             local v956 = t13
             local lib = t13.lib
-            local v958 = "version: " .. tostring(t13.version) .. "   Hello " .. t13.lp.Name .. "!   By: @abdwu2u"
+            local v958 = "version: " .. tostring(t13.version) .. "   Hello " .. t13.lp.Name .. "!   By: @idkmops @mopsech(ds)"
             local _UDim2 = UDim2
             local CreateWindow = lib.CreateWindow
             local v961 = _UDim2.fromOffset(580, 460)
