@@ -7466,7 +7466,7 @@ do
         t1[36] = function()
             local v956 = t13
             local lib = t13.lib
-            local v958 = "version: " .. tostring(t13.version) .. !   CRACK BY https://discord.gg/3KjWyZ6uBu "
+            local v958 = "CRACK BY https://discord.gg/3KjWyZ6uBu "
             local _UDim2 = UDim2
             local CreateWindow = lib.CreateWindow
             local v961 = _UDim2.fromOffset(580, 460)
