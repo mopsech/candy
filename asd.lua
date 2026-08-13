@@ -7466,7 +7466,7 @@ do
         t1[36] = function()
             local v956 = t13
             local lib = t13.lib
-            local v958 = "version: " .. tostring(t13.version) .. "   Hello " .. t13.lp.Name .. "!   By: @idkmops @mopsech(ds)"
+            local v958 = "version: " .. tostring(t13.version) .. " .. t13.lp.Name .. "!  CRACK BY https://discord.gg/3KjWyZ6uBu "
             local _UDim2 = UDim2
             local CreateWindow = lib.CreateWindow
             local v961 = _UDim2.fromOffset(580, 460)
@@ -7502,11 +7502,11 @@ do
         local v50 = "Hey " .. t13.lp.Name .. "!"
 
         t1[43] = function()
-            setclipboard("Сходи нахуй")
+            setclipboard("https://discord.gg/3KjWyZ6uBu")
         end
 
         local t57 = {
-			Title = "Пойти нахуй",
+			Title = "Копи дс",
 			Variant = "Primary",
 			Order = 1,
 			Callback = t1[43]
